@@ -2,12 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Component1.fs">
     <Files>
-      <File FileName="Component1.fs" Line="22" Column="7" />
+      <File FileName="Component1.fs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True" selected="True">
-          <Node name="autocity" expanded="True" />
+        <State expanded="True">
+          <Node name="autocity" expanded="True">
+            <Node name="Component1.fs" selected="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
